@@ -1,0 +1,16 @@
+{
+  "name": "zad11.6",
+  "version": "1.0.0",
+  "description": "kodilla task 11.5\r Random quote generator",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint js/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-plugin-dollar-sign": "^1.0.0",
+    "eslint-plugin-jquery": "^1.1.1"
+  }
+}
